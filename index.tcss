@@ -1,0 +1,22 @@
+# Screen {
+#     align: left top;
+# }
+
+ListView {
+    width: 30;
+    # height: auto;
+    # margin: 1  0;
+}
+
+Button {
+    width: 100%;
+}
+
+Label {
+    width: 100%;
+    padding: 1 2;
+}
+
+#server-item {
+    height: 5;
+}
